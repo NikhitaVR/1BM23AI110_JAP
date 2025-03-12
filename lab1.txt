@@ -1,0 +1,27 @@
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int age, duration, fee, i;
+        String name;
+        for(i = 0; i < 3; i++) {
+            System.out.println("Enter the name of the person ");
+            name = in.nextLine();  // Read the name of the person
+            System.out.println("Enter the age of the person ");
+            age = in.nextInt();  // Read age
+            in.nextLine();  // Consume the leftover newline character
+
+            System.out.println("Enter the duration of the gym membership in number of months ");
+            duration = in.nextInt();  // Read duration
+            in.nextLine();  // Consume the leftover newline character
+
+            System.out.println("Enter the status of the gym ");
+            Boolean status = in.nextBoolean();  // Read status
+            in.nextLine();  // Consume the leftover newline character
+
+            System.out.println("A standard fee of 500 is mandatory plus an additional 200 is added for each month ");
+            fee = 500 + 200 * duration;  // Calculate the fee
+            System.out.println("The total membership fee is: " + fee);
+        }
+    }
+}
