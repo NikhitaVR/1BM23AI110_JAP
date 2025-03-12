@@ -1,0 +1,16 @@
+Boxed Integer : 10
+UnBoxed Integer : 10
+Boxed Float : 10.0
+UnBoxed float : 10.0
+Boxed Character : N
+UnBoxed Character : N
+Boxed Short : 20
+UnBoxed short : 20
+Boxed Long : 10000
+UnBoxed Long : 10000
+Boxed Double : 9.9
+UnBoxed Diuble : 9.9
+Boxed Boolean : true
+UnBoxed Boolean : true
+Boxed Byte : 50
+UnBoxed Byte: 50
