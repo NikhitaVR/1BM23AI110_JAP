@@ -1,0 +1,11 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4\lib\idea_rt.jar=53384" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\JAVA_LAB\out\production\JAVA_LAB CHESS
+** ** ** ** 
+ ** ** ** **
+** ** ** ** 
+ ** ** ** **
+** ** ** ** 
+ ** ** ** **
+** ** ** ** 
+ ** ** ** **
+
+Process finished with exit code 0
