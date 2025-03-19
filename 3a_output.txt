@@ -1,0 +1,10 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4\lib\idea_rt.jar=64383" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\ai110\out\production\ai110 array_string
+String one is : Hello
+String two is : hello
+Comparision of String : -32
+Checking if the strings are equal : false
+String we are concatenating is world
+The final string after concatenating both the strings : Helloworld
+The copied string : bye
+
+Process finished with exit code 0
