@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=50772" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\AI110\out\production\AI110 giftcard
+The fund in gift card after adding amount is 1500
+ LeastBalanceException : the withdrawal is not possible
+
+Process finished with exit code 0
